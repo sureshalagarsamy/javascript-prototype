@@ -1,10 +1,11 @@
-# Prototype in JavaScript
+### Prototype in JavaScript
 
 > 
 > What is Prototype in JavaScript?
 >
 > How to create prototype in JavaScript?
 
+</br>
 All the JavaScript objects have an object and its property called <b><em>prototype</em></b> and its used to add the custom functions and property.
 
 The example looks like,
